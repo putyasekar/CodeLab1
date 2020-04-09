@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodeLab1</string>
+    <string name="error_empty_field">Field Can\'t Be Empty</string>
+</resources>
